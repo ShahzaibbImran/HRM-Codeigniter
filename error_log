@@ -1,0 +1,8 @@
+[05-Nov-2015 03:35:47 America/Chicago] PHP Fatal error:  Call to a member function result() on a non-object in /home2/trescoder/public_html/hr/application/core/MY_Model.php on line 48
+[06-Nov-2015 01:59:22 Asia/Dhaka] PHP Fatal error:  Call to a member function row() on a non-object in /home2/trescoder/public_html/hr/application/core/MY_Model.php on line 48
+[06-Nov-2015 23:34:37 Asia/Dhaka] PHP Fatal error:  Call to a member function row() on a non-object in /home2/trescoder/public_html/hr/application/core/MY_Model.php on line 48
+[06-Nov-2015 23:37:39 Asia/Dhaka] PHP Fatal error:  Call to a member function row() on a non-object in /home2/trescoder/public_html/hr/application/core/MY_Model.php on line 48
+[06-Nov-2015 23:38:16 Asia/Dhaka] PHP Fatal error:  Call to a member function row() on a non-object in /home2/trescoder/public_html/hr/application/core/MY_Model.php on line 48
+[06-Nov-2015 23:43:59 Asia/Dhaka] PHP Fatal error:  Call to a member function row() on a non-object in /home2/trescoder/public_html/hr/application/core/MY_Model.php on line 48
+[06-Nov-2015 23:44:34 Asia/Dhaka] PHP Fatal error:  Call to a member function row() on a non-object in /home2/trescoder/public_html/hr/application/core/MY_Model.php on line 48
+[06-Nov-2015 23:58:41 Asia/Dhaka] PHP Fatal error:  Call to a member function row() on a non-object in /home2/trescoder/public_html/hr/application/core/MY_Model.php on line 48
